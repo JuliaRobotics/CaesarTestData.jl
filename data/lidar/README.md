@@ -1,9 +1,4 @@
 # Lidar Data
-
-## ./convertedRadar subfolder
-
-Single slice of radar data converted to ROS and PCL PointCloud2 types, from [MIT/SeaGrant's open Marine Dataset 2022](https://seagrant.mit.edu/auvlab-datasets-marine-perception-1/)
-
 ## ./pandar subfolder
 
 Lidar data in built environment.  Serialized with Julia 1.7 `Serialization.jl` and `Caesar.jl ` at v0.13.
